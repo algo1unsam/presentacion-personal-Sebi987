@@ -1,14 +1,24 @@
-Nombre: Sebastian Gabriel Rodrigues
+# Nombre 
 
-Legajo:CYT-9951
+Sebastian Gabriel Rodrigues
+
+# Legajo
+
+CYT-9951
+
+# Descripción
 
 Buenas gente, cuento mi version, soy un chico que le gusta mucho entrenar, la tecnologia (si tuviera la oportunidad de tener 20 pcs las tendria jajaja), amo los tatuajes no tengo muchos pero si grandes ya que tengo 1 manga hecha (brazo izquierdo) y alguno que otro en la pierna y costillas D:, tengo 2 mascotas, despues voy a pasar fotos :P, uno es un gatito negro que tiene como 13 años O.o (mas viejo esta jeje) y una perrita heermosa, hace rato que no miro pelis, pero una de las ultimas pelis que vi fue la purga, la ultima que salio que esta epica.
 
+- Entrenar
+- La tecnología
+- Tatuajes
+
+
 Soy de viciar bastante, los principales son csgo y rocket league, ya despues si me canso de algunos de esos, me tiro por un warzone o alguno que me engache su historia, si no estuviera la pandemia, soy de salir bastante a bares y algun que otro bolichito si pinta jajaja
 
+<div style="text-align:center"><img src="yo.jpg" width="200" />
 
-![](https://lh3.googleusercontent.com/nCcIWY9WMdiVOhFbi9e0JTQcnJS7uzgGBFYNHVDLkjs0VOi5OfvAi8mDVSCMJks1Vd-HyBV7R35ZDcy-URZbq9vYjTCBwzAGpDYJsvsvZ1_FQcl5jb1xK_szd7oP-0jpZhNWAOd0CPdhP2Vrx77K6WunOSCy9QwGjWey4KfAbBpUX_kYyB3eyE5W5Ps-DJ8WbWi1l2JuOd4TwSQK7AmM35qu2P1RLPJCYUgBagKW9xeReaWRajkYcqmg_u7MGv4BNns4LEH-cDqiKBpFRdwBuVD3PCbvEfV0MX_SUbe_R50p3YA3xQAx5WBd8bXOjUnVFjASV0q8meHBDFM_EHU9aHdNHDhjKACcKFRGfP3tvr_h5rTg1FiiMQsGpZ_L3OJDuUI6zrU1TlLmIs6YX3jD4UBm5r7qp5XIgKVfy1s1UXC2y_6jb1lWxjFxC4udt13AqeWHAx1_vTXsPCjqJqiKQj3xEPH6_Mv6FwqCKUqj9iYY4H5-Ijioe0mZ08jeMIx8BLKnZBes1_2tMomrQoq5zImrMtwnW0DaEFSPUFNyRhtHc7JyIfRcxYYjT5tU-KyS0AwRR_Gcu8nnUYsuKqoeHFOc0cADMfZHJdcyGHeDn_RJ3jc4KLVK5lp1rwVWU-rlYg7N9ZBBNTVbyTvaKZZXQZhZj7u5imKnPJut-10kxezs4a9uSVjRK7LflqEjPDu-bbrsdXsQfimwtOmGIS9AgYMMiQ=w420-h625-no?authuser=0)
+<div style="text-align:center"><img src="Luli.jpg" width="200" />
 
-![](https://lh3.googleusercontent.com/7V4f8hRspavkeVy3qDk3pjmd8SYR0J2mu0SVOajcaQFpswMmJHt9rCelhIuWcyxiyp4a7TfeboKKyC-sDXQzwM7Te9qvVVRpzatbQprpm9tY7rsTzr9vTBfn7tdkRKMk68pHl6kQVFJBppvSU5DSs3soZeg4KOxFpSxxiwOrA3Exikd7XpkOJ2dM4c3v3xuZtUwuVsVshoSjO5ls_HPPF6ufS7qfMHkJbn9AsuIKfkyOa0uzvGs_lA4lP6R8S7URqsMvTIFFMhGxC_S4lwFiUDwwD_hZd1-t-IzaDDp8YDn6ssZ84tmGCdXatfQrUdBMXDaB7T9ah90tKvynjDHHYWb_8N_-q5JEysNub1ogVyzCtT4bod__Wqf1O2nDnV7hj9FsZgzG9mfamZqJXK16957SOI4eur6rq-4YjbccVzkudl7zQkFN5rvA5f7VfVorw-mS9Hw036nIXs-SJpjoL-UBkV7vLNBzkX7PyiTkU0rvG_LQ-JyHOlgSV-9QVA3EwwCe-Y3mIivzHsw088nnuipG2NavJcehOZQSHXSZhf5tVunmCUSwpg-ldRCn0Cx8TWXyZikhy02FtFao9OMZ6sfPdsQ5dVPkVHF_EXF4uB3pkq_b_nvZ0LQjvZgOPeVwqvBlm_5NkUfXbQJlrw8Wg78opmBaTRyx68jL-PW2uPqD6RO4TSUFZJulkE_ggQJ4jPaA62RwLwvdznMRqpLdWHo-=w469-h625-no?authuser=0)
-
-![](https://lh3.googleusercontent.com/hI4Lc50Ee_1UDCHF0WiUxgbU09VCYC7YkkfoZSl5kYzunjjLU31V9t5Hoyrmw_9pWd_GReNhGIXaZZ3bs1zTg9W7Q90BD3V_vC6wPizP7U6FeKG_sGZ-1C4XmehjEHUZKAlX67hVn03hv5uhDZqBd16DNzPTjOSdp4GIbZiIVDuC2RSpTi4n4EFziLUXOEAgy-S73EU7HzHW_FrqfGIQze17cQ0PuxNiVcnpjNGfwqmV50I0IEsvnyT6k21VdvDVk0_wfMHapLgJFSYmYDrRWzvLF8ELHoDEXNhvQBuu9adNH0pLycbgDQ93oEmzQjBAQpuZKYM8VYABcKIT7PTuZflv5L7jy4zbniWBAJFzh-QPzcLrgeMYX50SbswlKPvU-T72w6z2xiYT_1iwf0nMwMZemsorGszsgMEzSDYdjm_RNu4FflXdGI_8QfO9M9v8fymr2z5-z_q2EKvxtblJar-ox7jU8IxopIxFyTuWNYSxR7xc3rTWwfGv7O9vc9TgC1uY7usPdRTqJJ5wqvZKtMQFnYBwL4KVqWxH5Sbiwwa8uipt4ZgTniNvlgpXkT8I91cmKwBhqCdneTVuQnF38ci7A912njiQFHVXYsDecb36ziBYXDJwbxxr0JUY2KdAL5eoOFyyZCVgB7CSBS01SbyaMsophwwlYCP8eNwTAo2bHl4Tp0BXnPTtL6iv9OK8yWknXb7Uk0OUEnJJJwDelw3t=w469-h625-no?authuser=0)
+<div style="text-align:center"><img src="Negrito.jpg" width="200" />
