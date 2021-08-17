@@ -17,3 +17,7 @@ Soy de viciar bastante, los principales son csgo y rocket league, ya despues si 
 <div style="text-align:center"><img src="Luli.jpg" width="200" />
 
 <div style="text-align:center"><img src="Negrito.jpg" width="200" />
+
+Fotito de la manga que lo pidieron con fotito facherita ?)
+
+<div style="text-align:center"><img src="Manga.jpg" width="200" />
